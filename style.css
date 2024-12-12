@@ -12,6 +12,12 @@ body {
     background-color:white;
     background-image: none; /* Remove the default icon */
 }
+.navbar-collapse .nav-link {
+    color: white; /* Change this to your desired text color */
+}
+.navbar-nav .nav-link {
+    color: white; /* Change text color */
+}
 #c{
     position: relative;
    /* bottom: 45px; */

@@ -9,6 +9,7 @@ body {
 
 /* Change the color of the icon inside the toggle button */
 .navbar-toggler-icon {
+    background-color:white;
     background-image: none; /* Remove the default icon */
 }
 #c{

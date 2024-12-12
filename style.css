@@ -3,7 +3,14 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.navbar-toggler {
+    background-color: #007bff; /* Change this to your desired color */
+}
 
+/* Change the color of the icon inside the toggle button */
+.navbar-toggler-icon {
+    background-image: none; /* Remove the default icon */
+}
 #c{
     position: relative;
    /* bottom: 45px; */
